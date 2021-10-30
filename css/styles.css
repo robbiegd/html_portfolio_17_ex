@@ -1,0 +1,66 @@
+body {
+    background-color: #FAFAFA;
+}
+
+.nav {
+    background-color: #2d2d2d;
+    color: white;
+    height: 70px;
+
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li {
+    float: right;
+    padding: 20px;
+    line-height: 20px;
+text-align: center;
+font-weight: 700;
+}
+
+.main {
+    height: 600px;
+    display: flex;
+justify-content: center;
+}
+
+.hero {
+    width: 400px;
+    background: white;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 80px;
+    text-align: center;
+
+
+}
+
+#profile {
+    width: 150px;
+    border-radius: 100px;
+}
+
+.profile {
+    src: url(../images/avatar.jpg);
+    
+
+}
+
+h1 {
+margin-top: 20px;
+}
+
+p {
+    
+}
+
+footer {
+    background-color: #2d2d2d;
+    color: white;
+    height: 70px;
+}
